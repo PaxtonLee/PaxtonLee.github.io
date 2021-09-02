@@ -1,0 +1,28 @@
+body {
+  background-color: #52290c;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: 'Lobster Two', cursive;
+  color: white;
+  padding: 5px;
+}
+
+h3 {
+  color: white;
+  padding: 5px;
+}
+
+h4 {
+  color: white;
+}
+
+
+.header {
+  background-image: url("images/railroad.jpg")
+}
+
+.servicelist ul {
+  color: white;
+}
