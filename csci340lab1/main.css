@@ -4,16 +4,20 @@ body {
 
 header {
   background-color:  deepskyblue;
-  height: 520px;
+  height: 380px;
+}
+
+
+
+img {
+  padding: 10px;
 }
 
 .col-sm4 {
   color: white;
-  padding: 15px;
-}
-
-.container {
-  padding: 50;
+  font-size: 45px;
+  padding-left: 15px;
+  font-family: 'Lobster Two', cursive;
 }
 
 .jumbotron {
@@ -32,6 +36,7 @@ header {
   width: 370px;
   color: white;
   font-size: 40px;
+  font-family: 'Lobster Two', cursive;
 }
 
 .jumbotron ul {
@@ -41,4 +46,12 @@ header {
   width: 300px;
   font-size: 20px;
   color: white;
+  font-family: 'Lobster Two', cursive;
+}
+
+.col-sm-12 {
+  color: white;
+  font-size:25px;
+  font-family: 'Lobster Two', cursive;
+  display: inline-flex;
 }
