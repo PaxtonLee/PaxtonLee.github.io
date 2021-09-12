@@ -1,0 +1,39 @@
+html{
+  background-color: black;
+}
+
+
+h1{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 5em;
+  text-align: center;
+  color: gold;
+  background-color: black;
+}
+
+h2{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2em;
+  text-align: center;
+}
+
+p {
+  color: black;
+}
+
+.jumbotron {
+  padding: 10em inherit;
+  size: cover;
+}
+
+.quotetext {
+  padding: 8em;
+  margin: 1em;
+  background-image: url("images/background.jpg");
+  background-size: auto;
+  background-repeat:no-repeat;
+}
+
+.buttons {
+  padding-top: 1em;
+}
